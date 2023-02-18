@@ -25,3 +25,5 @@ src-git infinityfreedom https://github.com/xiaoqingfengATGH/luci-theme-infinityf
 src-git homeclash https://github.com/xiaoqingfengATGH/homeclash.git
 # strongswanInDocker
 src-git strongswanInDocker https://github.com/xiaoqingfengATGH/luci-app-strongswanInDocker.git
+src-git alist https://github.com/alist-org/alist.git
+src-git dockerman https://github.com/bixuehujin/dockerman.git
